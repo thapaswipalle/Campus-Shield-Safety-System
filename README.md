@@ -4,8 +4,7 @@ Case study &amp; system architecture for Campus-Shield: Real-Time Women Safety S
 # CAMPUS-SHIELD
 **Real-Time Women Safety & Harassment Reporting System**
 
-> **Confidentiality Notice:** Source code and operational datasets are restricted due to a published patent application with the Indian Patent Office (**App No: 202541054534**), data privacy regulations, and compliance standards. This repository contains the system architecture and technical summary.
-
+> **Confidentiality Notice:** This project's core system design is linked to a patent application filed with the Indian Patent Office (App No. 202541054534). As the intellectual property is held by the academic institution, the full source code and underlying datasets are not publicly released. This repository provides a high-level overview of the system architecture and my individual contributions.
 ---
 
 ## Overview

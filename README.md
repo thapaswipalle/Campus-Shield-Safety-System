@@ -17,7 +17,7 @@ Campus-Shield is a web and location-based real-time safety system engineered to 
 * **Privacy-Preserving Data Pipeline:** Implemented data sanitization routines to anonymize user reporting logs while retaining data integrity for analytical auditing.
 
 ## Project Details
-* **Role:** Team Lead & Lead Developer (3-Member Team)
+* **Role:** Team Lead (3-Member Team)
 * **Guidance:** Head of Department (HOD)
 * **IP Status:** Patent Application Published (**Indian Patent Office | App No: 202541054534**)
 * **Tech Stack:** JavaScript, Location APIs, SQL, Data Cleaning, Git, Excel
